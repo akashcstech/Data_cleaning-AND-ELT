@@ -72,6 +72,38 @@ Data_cleaning-AND-ELT/
 
 *(All visuals are generated using Matplotlib and Seaborn for better insights.)*
 
+### Sample Visuals
+
+#### Restaurants by City
+Bar chart showing the number of restaurant ratings given by customers.  
+![Rating Popularity](images/Rating_Popularity.png)
+
+#### Online vs Table Booking
+Comparison of online order vs table booking availability.  
+![Online Order & Table Booking](images/Online_vs_Table_Booking.png)
+
+#### Online vs Table Booking Heatmap
+Heatmap showing Online Order vs Table Booking distribution.  
+![Online Order & Table Booking Heatmap](images/Online_vs_Table_Booking_Heatmap.png)
+
+#### Rating vs Popularity
+Scatter plot showing restaurant ratings vs vote count (popularity).  
+![Rating vs Popularity](images/Scatterplot_Rating_vs_Votes.png)
+
+#### Restaurants Distribution by Location
+Horizontal bar graph representing top 15 locations by number of restaurants.  
+![Restaurants Distribution](images/Horizontal_Bar_Restaurants_Distribution.png)
+
+#### Restaurant Types Distribution
+Bar graph showing top 15 restaurant types by count.  
+![Restaurant Types](images/Restaurant_Types.png)
+
+#### Cost Analysis
+Side-by-side bar chart comparing cost for two people vs one person.  
+![Cost Analysis](images/Cost_Analysis.png)
+
+
+
 ---
 
 ## 🚀 How to Run This Project
