@@ -1,0 +1,13 @@
+# Python version
+python>=3.8
+
+# Core libraries
+pandas
+seaborn
+matplotlib
+
+# Database connector (optional for MySQL)
+mysql-connector-python
+
+# Jupyter environment
+notebook
