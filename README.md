@@ -53,12 +53,11 @@ This dataset contains information about restaurants listed on Zomato, including 
 
 ## 📁 Project Structure
 Data_cleaning-AND-ELT/
-│
-├── notebook.ipynb # Main Jupyter Notebook with cleaning, EDA, and ELT process.
-├── data/ # Raw and cleaned datasets (optional).
-├── output/ # Processed data and SQLite database.
-├── requirements.txt # Python dependencies.
-└── README.md # Project documentation.
+  -├── notebook.ipynb # Main Jupyter Notebook with cleaning, EDA, and ELT process.
+  -├── data/ # Raw and cleaned datasets (optional).
+  -├── output/ # Processed data and SQLite database.
+  -├── requirements.txt # Python dependencies.
+  -└── README.md # Project documentation.
 
 
 
