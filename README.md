@@ -96,6 +96,7 @@ Data_cleaning-AND-ELT/
 
 Akash S
 🔗 GitHub: https://github.com/akashcstech
+🔗 Email: akash.cstech@gmail.com
 
 💼 Aspiring Data Engineer passionate about Python, SQL, and data pipeline automation.
 
