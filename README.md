@@ -49,7 +49,7 @@ This dataset contains information about restaurants listed on Zomato, including 
     - Most popular cuisines  
     - Average cost for two per city  
 
----
+```
 
 ## 📁 Project Structure
 Data_cleaning-AND-ELT/
@@ -61,7 +61,7 @@ Data_cleaning-AND-ELT/
 
 
 
----
+```
 
 ## 📈 Sample Visuals
 - **City-wise Restaurant Count**
